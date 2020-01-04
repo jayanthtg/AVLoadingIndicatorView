@@ -1,4 +1,4 @@
-# PLEASE NOTE, THIS PROJECT is now maintained by me
+# PLEASE NOTE, THIS PROJECT NOT MAINTAINED
 
 * * *
 
